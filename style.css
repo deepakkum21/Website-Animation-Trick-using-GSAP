@@ -26,6 +26,7 @@ nav {
 .nav-links li {
   padding-left: 10rem;
   font-size: 1.2rem;
+  cursor: pointer;
 }
 #logo {
   font-family: "Lobster", cursive;
